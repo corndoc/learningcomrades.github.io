@@ -1,3 +1,6 @@
+https://github.com/orgs/learningcomrades/projects/1
+https://github.com/learningcomrades/LearningComrades
+
 # Table of Contents
 
 * [About Learning Comrades](#about-learning-comrades)
@@ -44,7 +47,7 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 ![](images/upcoming.jpg)
 
-# Development Detais
+# Development Details
 
 # Deployment
 
