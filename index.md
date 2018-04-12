@@ -8,8 +8,6 @@
   * [Create Study Session Page](#create-study-session-page)
   * [Upcoming Study Session Page](#upcoming-study-session-page)
 * [Development Details](#development-details)
-  * [Milestone 1](#milestone-1)
-  * [Milestone 2](#milestone-2)
 * [Deployment](#deployment)
   
  
@@ -46,7 +44,7 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 # Development Details
 
-## Milestone 1
+### Milestone 1
 [Milestone 1](https://github.com/learningcomrades/LearningComrades/projects/2) 
 
 ## Milestone 2
