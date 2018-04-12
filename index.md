@@ -30,11 +30,11 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 ## Profile Page
 
-![](images/profile2.png)
+![](images/profile2.PNG)
 
 ## Comrades
 
-![](images/comrades.png)
+![](images/comrades.PNG)
 
 ## Create Study Session Page
 
