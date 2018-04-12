@@ -22,15 +22,19 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 ## Landing Page
 
-![](images/landing_page.jpg)
+![](images/landing_page2.jpg)
 
 ## Login Page
 
-![](images/login.jpg)
+![](images/login2.jpg)
 
 ## Profile Page
 
-![](images/profile.jpg)
+![](images/profile2.jpg)
+
+## Comrades
+
+![](images/comrades.jpg)
 
 ## Create Study Session Page
 
