@@ -51,5 +51,5 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 # Deployment
 
-Deployed Web [Application](https://galaxy.meteor.com/app/learningcomrades.meteorapp.com)
+[Deployed Web Application](https://galaxy.meteor.com/app/learningcomrades.meteorapp.com)
 
