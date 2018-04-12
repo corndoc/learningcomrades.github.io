@@ -13,32 +13,31 @@
  
 # About Learning Comrades
 
-Learning Comrades is a Meteor application project created by Dallas Greene, Oliver Sou, and Collin Wong. The goal of this project 
-is to provide the ICS undergraduate community a new way to learn and socialize.
+Learning Comrades is a UH Manoa ICS 314 [organization](https://github.com/learningcomrades) driven to build a web application that allows ICS students to improve their academic career and find new comrades to assist them in this treacherous journey. We humans are social creatures that want thrive on interaction with others. Learning Comrades is a tool to provide the ICS undergraduate community a new way to learn and socialize.
 
 # Mockup Pages
 
-## Landing Page
+## [Landing Page](http://learningcomrades.meteorapp.com/#/)
 
 ![](images/landing_page2.png)
 
-## Login Page
+## [Login Page](http://learningcomrades.meteorapp.com/#/signin)
 
 ![](images/login2.png)
 
-## Profile Page
+## [Profile Page](http://learningcomrades.meteorapp.com/#/add)
 
 ![](images/profile2.PNG)
 
-## Comrades
+## [Comrades](http://learningcomrades.meteorapp.com/#/list)
 
 ![](images/comrades.PNG)
 
-## Create Study Session Page
+## [Create Study Session Page](http://learningcomrades.meteorapp.com/#/create)
 
 ![](images/create.jpg)
 
-## Upcoming Study Session Page
+## [Upcoming Study Session Page](http://learningcomrades.meteorapp.com/#/view)
 
 ![](images/upcoming.jpg)
 
