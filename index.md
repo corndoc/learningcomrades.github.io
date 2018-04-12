@@ -9,10 +9,10 @@
   * [Upcoming Study Session Page](#upcoming-study-session-page)
 * [Development Details](#development-details)
   * [Milestone 1](#milestone-1)
-  * [Milestone 1](#milestone-2)
-  * [Milestone 1](#milestone-3)
+  * [Milestone 2](#milestone-2)
+* [Deployment](#deployment)
   
-
+ 
 # About Learning Comrades
 
 Learning Comrades is a Meteor application project created by Dallas Greene, Oliver Sou, and Collin Wong. The goal of this project 
@@ -41,4 +41,8 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 ![](images/upcoming.jpg)
 
 # Development Detais
+
+# Deployment
+
+Here is a link to our deployed web application: https://galaxy.meteor.com/app/learningcomrades.meteorapp.com
 
