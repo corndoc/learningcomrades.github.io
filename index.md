@@ -44,10 +44,10 @@ is to provide the ICS undergraduate community a new way to learn and socialize.
 
 # Development Details
 
-### Milestone 1
+Milestone 1
 [Milestone 1](https://github.com/learningcomrades/LearningComrades/projects/2) 
 
-## Milestone 2
+Milestone 2
 [Milestone 2](https://github.com/learningcomrades/LearningComrades/projects/3)
 
 
