@@ -18,15 +18,16 @@ Learning Comrades is a UH Manoa ICS 314 [organization](https://github.com/learni
 # Mockup Pages
 
 ## [Landing Page](http://learningcomrades.meteorapp.com/#/)
+This is the homepage where students can look at the current avaiable study sessions according to their course that they are struggling in.
 
 ![](images/landing_page2.png)
 
 ## [Login Page](http://learningcomrades.meteorapp.com/#/signin)
-
+The user can register an account and input their login credentials.
 ![](images/login2.png)
 
 ## [Profile Page](http://learningcomrades.meteorapp.com/#/add)
-
+The user can create and update their profile 
 ![](images/profile2.PNG)
 
 ## [Comrades](http://learningcomrades.meteorapp.com/#/list)
@@ -46,6 +47,8 @@ Learning Comrades is a UH Manoa ICS 314 [organization](https://github.com/learni
 [Milestone 1](https://github.com/learningcomrades/LearningComrades/projects/2) 
 
 [Milestone 2](https://github.com/learningcomrades/LearningComrades/projects/3)
+
+[Milestone 3](https://github.com/learningcomrades/LearningComrades/projects/4)
 
 
 # Deployment
