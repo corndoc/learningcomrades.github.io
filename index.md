@@ -38,11 +38,11 @@ The user can create and update their profile
 
 ## [Create Study Session Page](http://learningcomrades.meteorapp.com/#/create)
 
-![](images/create.jpg)
+![](images/addsession.PNG)
 
 ## [Upcoming Study Session Page](http://learningcomrades.meteorapp.com/#/view)
 
-![](images/upcoming.jpg)
+![](images/listsession.PNG)
 
 # Developer Guide
 
