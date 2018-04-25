@@ -29,19 +29,19 @@ The user can register an account and input their login credentials.
 ![](images/login2.png)
 
 ## [Profile Page](http://learningcomrades.meteorapp.com/#/add)
-The user can create and update their profile 
+The user can create and update their profile.
 ![](images/profile2.PNG)
 
 ## [Comrades](http://learningcomrades.meteorapp.com/#/list)
-
+The user can view other comrades that are taking similar courses to them.
 ![](images/comrades.PNG)
 
 ## [Create Study Session Page](http://learningcomrades.meteorapp.com/#/create)
-
+Users can create study sessions, coordinating the time, place, and material that they plan to go over.
 ![](images/addsession.PNG)
 
 ## [Upcoming Study Session Page](http://learningcomrades.meteorapp.com/#/view)
-
+Users can view the upcoming study sessions they want to go to based on their struggle in specific courses.
 ![](images/listsession.PNG)
 
 # Developer Guide
