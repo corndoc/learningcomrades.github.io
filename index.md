@@ -1,5 +1,5 @@
 
-
+<!--
 * [About Learning Comrades](#about-learning-comrades)
 * [User's Guide](#user's-guide)
   * [Landing Page](#landing-page)
@@ -11,6 +11,7 @@
 * [Development Details](#development-details)
 * [Community Feedback](#community-feedback)
 * [Deployment](#deployment)
+-->
   
  
 # About Learning Comrades
