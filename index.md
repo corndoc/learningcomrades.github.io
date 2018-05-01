@@ -1,4 +1,4 @@
-[comment]: <> (# Table of Contents)
+
 
 * [About Learning Comrades](#about-learning-comrades)
 * [User's Guide](#user's-guide)
