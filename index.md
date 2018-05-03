@@ -8,9 +8,10 @@
   * [Create Study Session Page](#create-study-session-page)
   * [Upcoming Study Session Page](#upcoming-study-session-page)
 * [Developer Guide](#developer-guide)
-* [Development Details](#development-details)
 * [Community Feedback](#community-feedback)
+* [Inital User Study](#inital-user-study)
 * [Deployment](#deployment)
+* [Development Details](#development-details)
 -->
   
  
@@ -69,14 +70,6 @@ $ meteor npm run start
 
 Learning Comrades application will be avaiable at [http://localhost:3000](http://localhost:3000).
 
-# Development Details
-
-[Milestone 1](https://github.com/learningcomrades/LearningComrades/projects/2) 
-
-[Milestone 2](https://github.com/learningcomrades/LearningComrades/projects/3)
-
-[Milestone 3](https://github.com/learningcomrades/LearningComrades/projects/4)
-
 # Community Feedback
 
 We chose five ICS students from different class standings to test our app. They understand that ICS is a hard course and some need additonal help outside of a professor's office hours. They enjoyed the simple to use UI where one can quickly create a study session page and coordinate a time and place to study. They find it simple to browse through other user's profiles to quickly get a first impression on them based on their profile picture and the courses that they have already taken.
@@ -87,45 +80,58 @@ One tester offered their concerns, stating that this app would have a more wides
 
 ## B. Chun
 Major: ICS
-Thoughts:
 
+Thoughts:
 <ul>
- <li> </li>
+ <li>Simple to use and get in to.</li>
+ <li>People would have a hard time moving from other platforms to this one.</li>
  </ul>
 
 ## R. Imanaka
 Major: Bioengineering
-Thoughts:
 
+Thoughts:
 <ul>
- <li> </li>
+ <li>The process of making a profile and a study session is very easy and fast.</li>
+ <li>The classes avaiable are only for ICS students which is unforunate as I would like to create study groups for my enginerring courses.</li>
  </ul>
 
 ## C. Olinarez
 Major: ICS
-Thoughts:
 
+Thoughts:
 <ul>
- <li> </li>
+ <li>It's really helpful to have a group of people discuss the material as certain topics are hard to grasp in class.</li>
+ <li>Having only one main color for the website makes it kind of bland. Maybe more cheerful colors will allow more people to take a second look at this app.</li>
  </ul>
 
 ## I. Starkey
 Major: ICS
-Thoughts:
 
+Thoughts:
 <ul>
- <li> </li>
+ <li>This would have been very useful for ICS 141 students who never touched discrete mathmatics until their freshmen year!</li>
+ <li>I would probably still use discord as I can still communicate with all my other non ICS friends.</li>
  </ul>
 
 ## N. Samson
 Major: ICS
-Thoughts:
 
+Thoughts:
 <ul>
- <li> </li>
+ <li>Your app has a nice layout and design that I can easily navigate through.</li>
+ <li>I probably won't use this app in the future because I don't like studying in a group as it drifts to different topics giving me less time to study.</li>
  </ul>
 
 # Deployment
 
 [Deployed Web Application](https://galaxy.meteor.com/app/learningcomrades.meteorapp.com)
+
+# Development Details
+
+[Milestone 1](https://github.com/learningcomrades/LearningComrades/projects/2) 
+
+[Milestone 2](https://github.com/learningcomrades/LearningComrades/projects/3)
+
+[Milestone 3](https://github.com/learningcomrades/LearningComrades/projects/4)
 
