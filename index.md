@@ -79,13 +79,51 @@ Learning Comrades application will be avaiable at [http://localhost:3000](http:/
 
 # Community Feedback
 
-## Inital User Study
-
-### B. Chun
-
 We chose five ICS students from different class standings to test our app. They understand that ICS is a hard course and some need additonal help outside of a professor's office hours. They enjoyed the simple to use UI where one can quickly create a study session page and coordinate a time and place to study. They find it simple to browse through other user's profiles to quickly get a first impression on them based on their profile picture and the courses that they have already taken.
 
 One tester offered their concerns, stating that this app would have a more widespread appeal if it weren't only for ICS students. Currently the app allows anyone to make an account, however it only offers classes based off on the ICS curriculum. There is the other notion that people wouldn't want to move from their current desired platform (ex. discord, facebook, etc.), as it would take time for students to pick up on Learning Comrades. This could be resolved by promoting this application to incoming ICS students. Students new to discrete math and programming will be able to use this app to coordinate study sessions. 
+
+# Inital User Study
+
+## B. Chun
+Major: ICS
+Thoughts:
+
+<ul>
+ <li> </li>
+ </ul>
+
+## R. Imanaka
+Major: Bioengineering
+Thoughts:
+
+<ul>
+ <li> </li>
+ </ul>
+
+## C. Olinarez
+Major: ICS
+Thoughts:
+
+<ul>
+ <li> </li>
+ </ul>
+
+## I. Starkey
+Major: ICS
+Thoughts:
+
+<ul>
+ <li> </li>
+ </ul>
+
+## N. Samson
+Major: ICS
+Thoughts:
+
+<ul>
+ <li> </li>
+ </ul>
 
 # Deployment
 
